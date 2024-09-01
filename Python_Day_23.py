@@ -1,4 +1,5 @@
 #List Methods
+'''Day 23 of #100DaysOfCode. Today in this video, I learned about various list methods in Python, including sort(), reverse(), index(), count(), copy(), append(), insert(), and extend(). These methods help in sorting lists, reversing their order, finding the index or count of an item, creating a copy of the list, appending items, inserting items at specific indexes, and extending a list with another collection datatype. Additionally, I learned that we can concatenate two lists to join them together. These methods make list manipulation in Python more efficient and convenient.'''
 l = [11, 45, 1, 2, 4, 6, 1, 1]
 print(l)
 # l.append(7)
